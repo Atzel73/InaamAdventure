@@ -1,0 +1,4315 @@
+fileFormatVersion: 2
+guid: 68bd9e7f321dfc14c9372a7270153eba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmzx1_aile_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1125
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff2155ae025ffc44ab3343bc5a7e0a3
+      internalID: -532321990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1125
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecadc4fdb69d67b43b3eace970574f82
+      internalID: -1164113723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1125
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679d47a379788954da49eb1dc38168ae
+      internalID: 1289630756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1125
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f9b0dbb7885b74ead133092b419a2b
+      internalID: -1341791524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1125
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1858a5890e3415c4192dd696a581da10
+      internalID: 1970812002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1125
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f7851e9b8b7f14ea71979c4091319d
+      internalID: 494509515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1125
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b455ef6caa97224f9852ee15394961b
+      internalID: -741186475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1125
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e269da32ef995429bd2826b581a7ef
+      internalID: -1886213291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1125
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04099e878de0aba4bbcb049244a143ea
+      internalID: -960674077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1125
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205e0569f73555a44b34dc0177e148b9
+      internalID: 1467558630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_10
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1125
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e8bacf198750c46a2f1464b3c60dac
+      internalID: 2136038499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_11
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1125
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5338ab5aa360bdd479f6482902d059a0
+      internalID: -1155213416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1083
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d100d1560a886524393c8233cfd92d7d
+      internalID: 112229474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1083
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdb055dd279c574993f6a40eed4a8c4
+      internalID: -457479786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1083
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7163602f8d4524cb5f59d43e300f92
+      internalID: 373427780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1083
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175264afd71399440a1f98dc500f5596
+      internalID: 231290981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1083
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34de1c3d6303d994ebf0007dfab61e35
+      internalID: -966041496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1083
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee91f2cd2e99b424da7c00c1dc5a9649
+      internalID: -2024788872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1083
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a752942346abd345a6d524b945a9631
+      internalID: -529389862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1083
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef72cfc8517d4184aa1f62a4717583cc
+      internalID: -530394930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_20
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1083
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8725086926aea478173d315cff71ab
+      internalID: 1030630284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1083
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a2eee6899226d40a6848722c71b52b
+      internalID: 1996946797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1035
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec26911b38fb7e41b665e63cc812210
+      internalID: -355766607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1035
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4132ba311ac365449ee2e3ceb9de025
+      internalID: 1611028839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1035
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556e9b30ab30cd04da7831af85424225
+      internalID: 592693762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1036
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc771946e25a1384ebc67b6fffb83d13
+      internalID: 329203060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1035
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63059bf7d211d1c46800ae29ff48cf54
+      internalID: 1833663682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1035
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28032bee4e15204ba379d5b726d2ca6
+      internalID: -791247593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1035
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4651658deac2645ab1fb9c2d2a9d9b
+      internalID: -1295355366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_29
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1035
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992fda79e988ea247bc1e7b6b7e8387b
+      internalID: -973431181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1034
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c689661e7573648aa414cf57efb252
+      internalID: -1161945052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1034
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e229a32c691f60d49957bae7b8e8353b
+      internalID: -1570801522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_32
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1034
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1a224d2b809f94898ed904ee80e6b0
+      internalID: -1013776873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 978
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c750fc5658909429fdd2ae51ba7b70
+      internalID: 1396481229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 978
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c00a901fcea8934397cc899dfede7e9
+      internalID: 1108413953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 978
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0048b95b0fd24b84f8dd988f56e76253
+      internalID: 253903446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 978
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015155f248b6d454abfda2179cac8556
+      internalID: 1402698287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 978
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c3c94771b5d2848b6689b3529db69a
+      internalID: 886923628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 978
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0727db68f45720c4e816a2549a95e3c1
+      internalID: 1514218992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 978
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56f05c658dac9d409936772235170eb
+      internalID: 1468963780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_40
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 978
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bb0414939b0384a84030b47c947506
+      internalID: -1035649193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_41
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 978
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929d14b25e6e2cd4a93f0f6f9b76cda7
+      internalID: 799122075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 916
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba515f1ab3830e45abdb501e81dee3f
+      internalID: 2103062828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_43
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 916
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1723276931b62c14bb03569362842638
+      internalID: -190286673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 916
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2f9686f7acf8b4585c25284bd47d5b
+      internalID: 15654502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_45
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 916
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c27e96f783ed042ba3bf8c6e64498b
+      internalID: -291611368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 916
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ce7fe31ba8ed140b27b291944e9f37
+      internalID: 2131598608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_47
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 916
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef749ff54d713a4686f2e5d316fcdd9
+      internalID: -407973561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_48
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 916
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c8a6b4da553ff42a457d0078e4b3b9
+      internalID: 237101725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_49
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 916
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fa0bbd04e240449a596fbfdd0c097a
+      internalID: -1553270583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_50
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 916
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d2345629e5e9848ab051837edcc4d6
+      internalID: -1612788620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 916
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf70e789fcdd9854e9fe59c6a896edf6
+      internalID: 1528262236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_52
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 916
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e348f2892e4d40649abfab5dc93710f7
+      internalID: 1468196773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_53
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 916
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7d2084a817d0c4893aa455d98a6c8f
+      internalID: -1914751418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 916
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3eed96bf082b840b1a50f49b2a78ef
+      internalID: 1893194695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_55
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 857
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c41e7e512bc70428f8640d58a77a2f
+      internalID: 589734389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_56
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 857
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef0f3f7effd69549b4c619dd3f8cad2
+      internalID: 1532950798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_57
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 857
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e549acd87264d4fb1c0347f4519c7b
+      internalID: 633448885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_58
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 857
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a82b27473c9ee1449a8588132094496
+      internalID: -358687883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 857
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabd2bcb8b712c34288d0a40f70164df
+      internalID: 361494220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_60
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 856
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e313936feed37ae409c547b86d01257e
+      internalID: 543281038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_61
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 855
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4736b60142b5c74c9a15daa708e39f9
+      internalID: 1599250819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_62
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 854
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa37967e36d64041a663a84f7fd3b80
+      internalID: -443503702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_63
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 857
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e82dfd60dc52489ed2da388095675
+      internalID: -331832609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_64
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 805
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2628eab571577024fb31a2d5baca93a2
+      internalID: 281947925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_65
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 805
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284a0138a1518d74490d6ff11ebd4357
+      internalID: 313843429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_66
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 805
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850192536aa8d04b92f80d5bea47aa7
+      internalID: 1152136233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_67
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 805
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0212bf00af3b2c74f830b8138b18389d
+      internalID: -65972671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 805
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7d334afd9a788409bb5cafd19011da
+      internalID: 809702201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_69
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 750
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f3d26a0c98f4c41bdb57e12a1131d7
+      internalID: -1901227094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_70
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 750
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae39d62ba3b50c44b9192e9676a04088
+      internalID: -1996505888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_71
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 750
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50179824d383c649b0d991d177367dc
+      internalID: 204730767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_72
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 755
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638aabf84127d4248bcd4face9120d30
+      internalID: -1306277428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_73
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 750
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bd951cf3b5e3f4e89a03c1ce74a5bd
+      internalID: -844698832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_74
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 750
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4a1785cde6442458252a5b94ea2f20
+      internalID: 903973178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_75
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 750
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffb33b7315659848b2d7b972d9a1122
+      internalID: 1282356744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_76
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 750
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d2e3ff4ad940743aca4b3484270a50
+      internalID: -1891961128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_77
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 705
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc3a01a6c2612e48b6d30a4f0ba9e53
+      internalID: -1423908748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_78
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 709
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bfbd74eaedc06458c8c470b4be1395
+      internalID: -431016030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_79
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 706
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11df45992d6f4a6408b4c1190ed9cc92
+      internalID: 1868539143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_80
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 685
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83815b08330b9764eb7ccf5c9c73fbc3
+      internalID: -1679678764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_81
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 709
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbdafea335ca7e44a73453da068f6a1
+      internalID: -989748158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_82
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 687
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9642e9d7d815fa4e9bbfa791d4c6e18
+      internalID: 737571119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_83
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 691
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cffbcdfdff73ad40a0ae2d357064f1f
+      internalID: 987971562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_84
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 692
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7adf2903c1c9bf4cba95caebbecfc39
+      internalID: -2082302035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_85
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 631
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39a4b6b5b764464e8e0711d5605f1b2
+      internalID: 427958693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_86
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 631
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fba1fdede7c25246967298c4063ede7
+      internalID: 478272617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_87
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 631
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810d6d2f774ca38478e9eaf1a317e4c0
+      internalID: 451734030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_88
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 631
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9097c379c3e2c4182e95b11eba7ac1
+      internalID: 1606984350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_89
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 631
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9514ac18b7b8814f822c6b5f8dbe35c
+      internalID: 1887269146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_90
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 630
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a90d89b4634b24f98bee0a93277c82
+      internalID: 742116279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_91
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 629
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083d8c26f93feb14da7d5d1fdfd91720
+      internalID: 637124187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_92
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 628
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520b6f96a79577a4d961a617ee518d97
+      internalID: -318997324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 579
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7992dba7d148be648ab8ef8a35d81ebb
+      internalID: 2055367245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_94
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 579
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2ddcc2a1c50d14b89d14e671667d15
+      internalID: -337351103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_95
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 579
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cc899eff063ba40816f9890b56dd8d
+      internalID: -928997942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_96
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 579
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e1646fb8bade9459e792222635667a
+      internalID: -52818770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_97
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 579
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baf256bd9d09ca48b3476f40dc3b51b
+      internalID: -2111686360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_98
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 519
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c863d8748cd0545850080049b40ea9
+      internalID: -1639459185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_99
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 519
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf5832b89cc5154db6242c466104ed1
+      internalID: 1188839468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_100
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 519
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25f9af11a4e1a44dae38d9756d0dcf7
+      internalID: -1710570822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_101
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 519
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7116abd45c3e346883afe8ca7d70ef
+      internalID: -562260511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_102
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 518
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248ac8f93ab70dc448e27993e39b2a6b
+      internalID: -1957975149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_103
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 519
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2325437addf22c4aacc774a3eb6577e
+      internalID: -1032171652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_104
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 519
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172f744b9c2dbc341a1fb90ebb2f4a91
+      internalID: -513877190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_105
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 465
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e400a442b231648b798e2f183d4637
+      internalID: -1863315010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_106
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 462
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca06a4591a633b44180d691d3384067c
+      internalID: 1537665579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_107
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 463
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6104807dfde2e84798890d8fa2dd134
+      internalID: -704397955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_108
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3178276f4f2d140a6896caca133f55
+      internalID: 1300572816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_109
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 465
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e71edaba437cfc4fa26342d11cb18ab
+      internalID: -1824912005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_110
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 465
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c112ae0b6dc1bcd48b6dd357ceea4858
+      internalID: 127155630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_111
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 465
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c04deb9b12c98478b5e88ac2d47ec1
+      internalID: -516216877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_112
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 411
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dce7cb8e1fb0fb408eb61ebbe395b36
+      internalID: -1619030698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_113
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 408
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc439cf0a85f1643acf5f27c3c35f7a
+      internalID: 1869929223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_114
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 409
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f276e82d3cb7b1b49938c2b96d62e8ac
+      internalID: -1603093325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_115
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 410
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a278e87a158e6914aa007fa2d961fd10
+      internalID: 986132676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_116
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 411
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e9d8b76aea06d4081df23055f929b2
+      internalID: 190044750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 411
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe152851fc5bffc4680abcc6c3f97360
+      internalID: 1432614798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_118
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 411
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348f11d12410d3347a89f7bc8e58b75f
+      internalID: -156712858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_119
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 375
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709895af98b7fad418f97f49f51fcc9f
+      internalID: -1596935056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_120
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 375
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c933b190ebc58448c78362a75f8125
+      internalID: -1743926212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_121
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 375
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42c79fda984086498ce962cd762c9c0
+      internalID: -538605381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_122
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 375
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9415c53cd5f594683d0dd980fc5533
+      internalID: -166159939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_123
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 375
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d85b02134153ca408a2af0580e70390
+      internalID: -1431275113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_124
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 373
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cad169d79fc72f4eb93b70da6853e22
+      internalID: 13470538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_125
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 373
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292f27bf4279a6543b3969ebc0d5a712
+      internalID: -57171443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_126
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 373
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd7d8d747061c544b718895cafdc4ea
+      internalID: 1768236181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_127
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 373
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b3b52c9d64baf4c80eb5cd0e13a2df
+      internalID: -678488958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_128
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 374
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460cc31931a85d241b8168e455c80779
+      internalID: 1899748151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_129
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 373
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175e69ca3475c4849a0e4ee2902989af
+      internalID: -2117683958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_130
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 373
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bce2d5dde3c1340b3b7cf0828be612
+      internalID: -2095692914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_131
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 333
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde56ec823eb9b84996d1f695184c5d6
+      internalID: -1491986555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_132
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 333
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4db2a638d8ceec4d8fff567f184d115
+      internalID: -296758923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_133
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 333
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e04a1f9eae9acd4691383dab2570345
+      internalID: -1949482689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_134
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 333
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4638187219361824fbd43997eb7bc909
+      internalID: -1387401128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_135
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 333
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fe83078a8cf544b85bf7fcacbe98e0
+      internalID: 491101770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_136
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 334
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd1d562f22a564f89be89280cffc63
+      internalID: 1377476153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_137
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 334
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c64c57ef9dd494dbac193aca18624a
+      internalID: 1299313356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_138
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 333
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5b8052759b74d40a7ba15d01e5c3f5
+      internalID: -143531126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_139
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 275
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d243f7b8462b940be3a653bf0d32e8
+      internalID: 244839704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_140
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 273
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ce85f51ffb7254a833cc0f1227ac59
+      internalID: 1647188476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_141
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 275
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0b0de64c109404fa5e6c7383c08bae
+      internalID: -1843159939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_142
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 274
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0026dcbbee0e7449fdc54e56404865
+      internalID: 1012189666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_143
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 276
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eb894294ec21b47b28211359d7e28c
+      internalID: -550931965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_144
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 274
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a58fa378e5f4e64eaf018d2c1fd21c8
+      internalID: -1883997444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_145
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 274
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa630593ea08f5f448d242d384c41ae2
+      internalID: -176748688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_146
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 276
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccf98fd80c4c6b4cb4ae2cac87a65b5
+      internalID: -2051392363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_147
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 221
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949fe0bd66db5db44846fe95cfd40a44
+      internalID: 1461441515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_148
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 222
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ae16b7f49f4f043af88685fc619960
+      internalID: -366029573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_149
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6695838fadf7a4282659e69e384baf
+      internalID: 625765639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_150
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 220
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963dbed08bf353c4bac97de3be082c28
+      internalID: 1821919953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_151
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 219
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e6daa9ed6a0544996408b296229da5
+      internalID: 1650211878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_152
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 219
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65913b1455d82e44bb764046db792ed8
+      internalID: 707621273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_153
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 223
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994a690c7930cd54bbd5bd89339339bb
+      internalID: 593284462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_154
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 165
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a52c15f4419cc444a8146ad1c2fece4
+      internalID: 1345054588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_155
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 162
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c52828de962f64ba70aafb11ea1737
+      internalID: 1739742845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_156
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 161
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9655e019b8f9ed40adf6fc622ae3f19
+      internalID: 192245717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_157
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 161
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50062d252bac81d408d60bd3e42a4944
+      internalID: 1698941221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_158
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 161
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2370536fd841d6a44af153d96c316ccc
+      internalID: 668445237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_159
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 88
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e3e14b01afb104587e54a77e76e6d8
+      internalID: 803894446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_160
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80798274c6970c64aa19318059216005
+      internalID: -1610552173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_161
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 88
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48478a6ceccb4914c9af7f5f12f07c50
+      internalID: 1119804407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_162
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 88
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd3462be8489d5438c93eb4183585f8
+      internalID: 829168934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_163
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 88
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc295ddbd3a1994e8b9b8b0ae1a1b9c
+      internalID: -1093641250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_164
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 88
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c2ef2a1592825499cd588331d16b88
+      internalID: -417278498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_165
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 88
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e358a93d2c17b4f81edeb4bf52d7e4
+      internalID: 1085199656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_166
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 126
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f28ec5c0a2894419ef7cfaafa5dcf7
+      internalID: -300444964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_167
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 86
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd405e071386734ab11108107c15fd2
+      internalID: 1760436058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_168
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 86
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f451ab2b932c444ac9b0ab2a4f666d
+      internalID: 1425169861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_169
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 86
+        width: 149
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425d1330ac0fdba4898c78420641b590
+      internalID: 705720550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_170
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 91
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407c42387f037114aa80ff2f61b061a0
+      internalID: 2022830079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_171
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 90
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424a198ed64283a49a167d7bff727a88
+      internalID: 1992094243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_172
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 91
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a25226e3fb7140b156c32f12ee4c7
+      internalID: 142471740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_173
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 87
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8726fbd73e74fa46875bd541824f1df
+      internalID: 1417483284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_174
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 91
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6cc2b11468489428b129e79218ff39
+      internalID: -779421840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_175
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fe15efe4ceebf48925ce131847c1cb
+      internalID: 604514186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_176
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 31
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98859ebef68e243429613cedf405759a
+      internalID: -1435640945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_177
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 31
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3886ca3cdd315f8459f35630e516e00d
+      internalID: -855987931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_178
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff57767a72d31c94d8983840adf8421a
+      internalID: -452900241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_179
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 31
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6498e254ad49c5d41bf5e0c6e871bb84
+      internalID: -912383873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_180
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 31
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1907d33ba70dbf644b34c55a3af84eae
+      internalID: -1571125216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_181
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 31
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd781b17161c5fd499ac29893b91b970
+      internalID: -1447025698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_182
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 31
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edfa486c41d8e24486099c4aadc925f
+      internalID: 1843400295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_183
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 31
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac20d3a2cd5927449d84e003c9c28ed
+      internalID: 1826041106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_184
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30031727bc143664e9628f64ddabcbd5
+      internalID: 128843431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_185
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ce842fc25931942ab21f1959d0972a
+      internalID: -1576829504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_186
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93212dd947a84541959b8a9e5691afa
+      internalID: 1806687865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_187
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 7
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a344819823b9ac6489b8b93081ac40d4
+      internalID: -1020400032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_188
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 7
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc4a76b165dd94e804f18826280ec0
+      internalID: 355244313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzx1_aile_189
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 7
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a8f82e6e7f51f41a382f71843eb862
+      internalID: 1046711609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mmzx1_aile_0: -532321990
+      mmzx1_aile_1: -1164113723
+      mmzx1_aile_10: 2136038499
+      mmzx1_aile_100: -1710570822
+      mmzx1_aile_101: -562260511
+      mmzx1_aile_102: -1957975149
+      mmzx1_aile_103: -1032171652
+      mmzx1_aile_104: -513877190
+      mmzx1_aile_105: -1863315010
+      mmzx1_aile_106: 1537665579
+      mmzx1_aile_107: -704397955
+      mmzx1_aile_108: 1300572816
+      mmzx1_aile_109: -1824912005
+      mmzx1_aile_11: -1155213416
+      mmzx1_aile_110: 127155630
+      mmzx1_aile_111: -516216877
+      mmzx1_aile_112: -1619030698
+      mmzx1_aile_113: 1869929223
+      mmzx1_aile_114: -1603093325
+      mmzx1_aile_115: 986132676
+      mmzx1_aile_116: 190044750
+      mmzx1_aile_117: 1432614798
+      mmzx1_aile_118: -156712858
+      mmzx1_aile_119: -1596935056
+      mmzx1_aile_12: 112229474
+      mmzx1_aile_120: -1743926212
+      mmzx1_aile_121: -538605381
+      mmzx1_aile_122: -166159939
+      mmzx1_aile_123: -1431275113
+      mmzx1_aile_124: 13470538
+      mmzx1_aile_125: -57171443
+      mmzx1_aile_126: 1768236181
+      mmzx1_aile_127: -678488958
+      mmzx1_aile_128: 1899748151
+      mmzx1_aile_129: -2117683958
+      mmzx1_aile_13: -457479786
+      mmzx1_aile_130: -2095692914
+      mmzx1_aile_131: -1491986555
+      mmzx1_aile_132: -296758923
+      mmzx1_aile_133: -1949482689
+      mmzx1_aile_134: -1387401128
+      mmzx1_aile_135: 491101770
+      mmzx1_aile_136: 1377476153
+      mmzx1_aile_137: 1299313356
+      mmzx1_aile_138: -143531126
+      mmzx1_aile_139: 244839704
+      mmzx1_aile_14: 373427780
+      mmzx1_aile_140: 1647188476
+      mmzx1_aile_141: -1843159939
+      mmzx1_aile_142: 1012189666
+      mmzx1_aile_143: -550931965
+      mmzx1_aile_144: -1883997444
+      mmzx1_aile_145: -176748688
+      mmzx1_aile_146: -2051392363
+      mmzx1_aile_147: 1461441515
+      mmzx1_aile_148: -366029573
+      mmzx1_aile_149: 625765639
+      mmzx1_aile_15: 231290981
+      mmzx1_aile_150: 1821919953
+      mmzx1_aile_151: 1650211878
+      mmzx1_aile_152: 707621273
+      mmzx1_aile_153: 593284462
+      mmzx1_aile_154: 1345054588
+      mmzx1_aile_155: 1739742845
+      mmzx1_aile_156: 192245717
+      mmzx1_aile_157: 1698941221
+      mmzx1_aile_158: 668445237
+      mmzx1_aile_159: 803894446
+      mmzx1_aile_16: -966041496
+      mmzx1_aile_160: -1610552173
+      mmzx1_aile_161: 1119804407
+      mmzx1_aile_162: 829168934
+      mmzx1_aile_163: -1093641250
+      mmzx1_aile_164: -417278498
+      mmzx1_aile_165: 1085199656
+      mmzx1_aile_166: -300444964
+      mmzx1_aile_167: 1760436058
+      mmzx1_aile_168: 1425169861
+      mmzx1_aile_169: 705720550
+      mmzx1_aile_17: -2024788872
+      mmzx1_aile_170: 2022830079
+      mmzx1_aile_171: 1992094243
+      mmzx1_aile_172: 142471740
+      mmzx1_aile_173: 1417483284
+      mmzx1_aile_174: -779421840
+      mmzx1_aile_175: 604514186
+      mmzx1_aile_176: -1435640945
+      mmzx1_aile_177: -855987931
+      mmzx1_aile_178: -452900241
+      mmzx1_aile_179: -912383873
+      mmzx1_aile_18: -529389862
+      mmzx1_aile_180: -1571125216
+      mmzx1_aile_181: -1447025698
+      mmzx1_aile_182: 1843400295
+      mmzx1_aile_183: 1826041106
+      mmzx1_aile_184: 128843431
+      mmzx1_aile_185: -1576829504
+      mmzx1_aile_186: 1806687865
+      mmzx1_aile_187: -1020400032
+      mmzx1_aile_188: 355244313
+      mmzx1_aile_189: 1046711609
+      mmzx1_aile_19: -530394930
+      mmzx1_aile_2: 1289630756
+      mmzx1_aile_20: 1030630284
+      mmzx1_aile_21: 1996946797
+      mmzx1_aile_22: -355766607
+      mmzx1_aile_23: 1611028839
+      mmzx1_aile_24: 592693762
+      mmzx1_aile_25: 329203060
+      mmzx1_aile_26: 1833663682
+      mmzx1_aile_27: -791247593
+      mmzx1_aile_28: -1295355366
+      mmzx1_aile_29: -973431181
+      mmzx1_aile_3: -1341791524
+      mmzx1_aile_30: -1161945052
+      mmzx1_aile_31: -1570801522
+      mmzx1_aile_32: -1013776873
+      mmzx1_aile_33: 1396481229
+      mmzx1_aile_34: 1108413953
+      mmzx1_aile_35: 253903446
+      mmzx1_aile_36: 1402698287
+      mmzx1_aile_37: 886923628
+      mmzx1_aile_38: 1514218992
+      mmzx1_aile_39: 1468963780
+      mmzx1_aile_4: 1970812002
+      mmzx1_aile_40: -1035649193
+      mmzx1_aile_41: 799122075
+      mmzx1_aile_42: 2103062828
+      mmzx1_aile_43: -190286673
+      mmzx1_aile_44: 15654502
+      mmzx1_aile_45: -291611368
+      mmzx1_aile_46: 2131598608
+      mmzx1_aile_47: -407973561
+      mmzx1_aile_48: 237101725
+      mmzx1_aile_49: -1553270583
+      mmzx1_aile_5: 494509515
+      mmzx1_aile_50: -1612788620
+      mmzx1_aile_51: 1528262236
+      mmzx1_aile_52: 1468196773
+      mmzx1_aile_53: -1914751418
+      mmzx1_aile_54: 1893194695
+      mmzx1_aile_55: 589734389
+      mmzx1_aile_56: 1532950798
+      mmzx1_aile_57: 633448885
+      mmzx1_aile_58: -358687883
+      mmzx1_aile_59: 361494220
+      mmzx1_aile_6: -741186475
+      mmzx1_aile_60: 543281038
+      mmzx1_aile_61: 1599250819
+      mmzx1_aile_62: -443503702
+      mmzx1_aile_63: -331832609
+      mmzx1_aile_64: 281947925
+      mmzx1_aile_65: 313843429
+      mmzx1_aile_66: 1152136233
+      mmzx1_aile_67: -65972671
+      mmzx1_aile_68: 809702201
+      mmzx1_aile_69: -1901227094
+      mmzx1_aile_7: -1886213291
+      mmzx1_aile_70: -1996505888
+      mmzx1_aile_71: 204730767
+      mmzx1_aile_72: -1306277428
+      mmzx1_aile_73: -844698832
+      mmzx1_aile_74: 903973178
+      mmzx1_aile_75: 1282356744
+      mmzx1_aile_76: -1891961128
+      mmzx1_aile_77: -1423908748
+      mmzx1_aile_78: -431016030
+      mmzx1_aile_79: 1868539143
+      mmzx1_aile_8: -960674077
+      mmzx1_aile_80: -1679678764
+      mmzx1_aile_81: -989748158
+      mmzx1_aile_82: 737571119
+      mmzx1_aile_83: 987971562
+      mmzx1_aile_84: -2082302035
+      mmzx1_aile_85: 427958693
+      mmzx1_aile_86: 478272617
+      mmzx1_aile_87: 451734030
+      mmzx1_aile_88: 1606984350
+      mmzx1_aile_89: 1887269146
+      mmzx1_aile_9: 1467558630
+      mmzx1_aile_90: 742116279
+      mmzx1_aile_91: 637124187
+      mmzx1_aile_92: -318997324
+      mmzx1_aile_93: 2055367245
+      mmzx1_aile_94: -337351103
+      mmzx1_aile_95: -928997942
+      mmzx1_aile_96: -52818770
+      mmzx1_aile_97: -2111686360
+      mmzx1_aile_98: -1639459185
+      mmzx1_aile_99: 1188839468
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

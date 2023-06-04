@@ -1,0 +1,4711 @@
+fileFormatVersion: 2
+guid: 6e2d4f5357d607944a0642fddc116990
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zero_fefnir_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1613
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b5e3ac55796cf46bc69b2c51105b22
+      internalID: -1917458205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1613
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1822b2ef0d6bc5a4680fba7928a9b70b
+      internalID: 861042993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1613
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4771497b20984e847aa72cdc5082cbd7
+      internalID: 1063032560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1613
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e05c6fa7365634d9232167dc30dc75
+      internalID: -1633445635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1613
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60930481eb4aa8c4ab17ae512a92973d
+      internalID: 1792170144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1594
+        width: 172
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a201f14a079f54bb01c686c29289aa
+      internalID: -1172677907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1541
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab154917bd0a9304d8623b6a4ece73bf
+      internalID: 1582537820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1541
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cc0e4d56b61294caa4e8fb93d80912
+      internalID: 654094020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1541
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c5009c223a45e489567190ac217d01
+      internalID: 1373663530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1540
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a999180d35f0c4ba8111113423a4b2
+      internalID: 173109440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1540
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ad4e96982545042b9b1d471800bfa2
+      internalID: 270176916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1540
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1024b135af7721f4593f9e241d87b411
+      internalID: 1465020759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1475
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae5ee27b3b7e0944962dd27bebd9f58
+      internalID: -1427350597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1475
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589bc12219fd13943a22a88092887102
+      internalID: -598363330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1475
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7121f1621b828104883ac9a2943f80fc
+      internalID: -311261349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_15
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1475
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf3958100f50024686c32616007c3d4
+      internalID: 2056128327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1475
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff83b9f07fdd78449ad73061a0314a30
+      internalID: -1505788685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1404
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a43ee2ab34a5494180b7cbf9591c5fc
+      internalID: 419144803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1407
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e53893c8beb6f4aa24a459648d25cd
+      internalID: -2569701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1407
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5724247c567c94085d92204886f667
+      internalID: 811572134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1407
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f15ca049444b6d42825f30692d66f6a
+      internalID: 953639119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1407
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16094d6f26476cf43b1aae1237703dc6
+      internalID: -1680141501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1407
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39ad3d00c8d72f4aa505391f25ecd1f
+      internalID: 868055914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_23
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1410
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace05ed7dd7339848b4cc3ef19053dbe
+      internalID: 67580990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1412
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574a2a1cd68e03d4fb1d5d1d029538d6
+      internalID: 1360045335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_25
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1411
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7407bd0756b6a0e4ea8c630caf6fdc38
+      internalID: 336524498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1285
+        width: 28
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0613ba742116caf469b8a241139907aa
+      internalID: 1693911069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1350
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1eba99dc02b764da6495d93d6919ec
+      internalID: 1150914185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_28
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1346
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e530de268f896f04085e5cf9a7ed1d9f
+      internalID: -1270907884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1358
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a045e76e4d8ce4c840d3414f30d1ce
+      internalID: 1833612388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1357
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8e5e2a47fe9884fbb6917f874eb5cb
+      internalID: 252566725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1357
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220bc16771a86974089775a54045c8f3
+      internalID: 1100989105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_32
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1358
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7570dbc8ed66acf42ab73814dfa3be60
+      internalID: 791378698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_33
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1359
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c65d6dd99ff254da736d2b6f845384
+      internalID: 25397705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1363
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a4884aafddb734a98480bad370d158
+      internalID: -2091792754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1363
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a950a8530d8cf624ba04e31a73c4913d
+      internalID: -1528187830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_36
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1375
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e30d9b664645043af49971c0adafeb
+      internalID: 462846825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_37
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1372
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff7d098f47e7f4589aa796da8bdea9
+      internalID: 924508160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_38
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1377
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3b2a3ac23b28a46abb03396abb0edd
+      internalID: -758854019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_39
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1374
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ec578fc3183da4c807b5756cd2623a
+      internalID: -105084542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_40
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1376
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ad0d4885225f6468af5752486fdd8b
+      internalID: -1084664478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_41
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1359
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19d7babd66f327428ba900524b795bb
+      internalID: 837255615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_42
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1360
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ac2d301d5af8d4eb434d93c9f35cf7
+      internalID: -1351632223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_43
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1359
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3a38a9f262514eb354413243d773f
+      internalID: 1277271127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_44
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1363
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7cd6c22ada04a4ba5a7991d31ecfda
+      internalID: -557518480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1335
+        width: 147
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f029f479d480a4bb8913942e8157ba
+      internalID: 292025902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1313
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22f86f9f8d060542a7a781e549092ba
+      internalID: 258231338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_47
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1314
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf2acf87a1d82409f102bacb6ce026
+      internalID: -739522896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_48
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1315
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2b314cad8a3e24c90bd8d542dfa4a9
+      internalID: -629872599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1294
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16e09bbf2d0b584791a1176654c5b14
+      internalID: -1053697949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_50
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1235
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb5e70b8ae55464bbe085bfc4d7d60d
+      internalID: -774986316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_51
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1235
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb81ffefcbbd434f8d3d9af048548e8
+      internalID: -1919044351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_52
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1235
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4151892eee44be140bb4b0a0c9ebb6da
+      internalID: -377979210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_53
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1238
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a39e82eb155c74798d00255c05c06c
+      internalID: 557290994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_54
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1237
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b260b6fbca04748a3204f54c2916fc
+      internalID: 1304407899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1150
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22fc16dc39cda64290f0b4a46af68cb
+      internalID: -1292781911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_56
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1104
+        width: 39
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f643ce2a5f43104e8e00a1c6db5344b
+      internalID: -1214173602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1150
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be64fac289aa614083f44aaa16df558
+      internalID: -443308840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1150
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c87c522418ca544696a3816361a65fb
+      internalID: 66266519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_59
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1150
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a38276838dd6fd4ebe73e80e93f4799
+      internalID: 1169606108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_60
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1150
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f770e309628e4b89a202d70cfd5c2
+      internalID: -1980550868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_61
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1150
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b574739b5606fd44be3c2aab9f66371
+      internalID: 1913235692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_62
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1149
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fd70258c62e30418fb23490d778a9d
+      internalID: 1560285640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1149
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e07fb5e587f1b478705a9cf8f39660
+      internalID: 82845937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_64
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1155
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1617aa7e6c6ff7a48939d71478c2841b
+      internalID: -79401908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_65
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1153
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04baed3a644227641af23af052f02ffa
+      internalID: 478197126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_66
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1151
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f946b35b6482fe645a692eaf36f8c071
+      internalID: -956863737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_67
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1112
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccb708794e5b424aa9f64a575de955c
+      internalID: -455793020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_68
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1108
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523364f1ba98e7d4582e100f0483ae3e
+      internalID: -591472421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1027
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4c7d5b8c385944b9e796fd836ff738
+      internalID: -602446976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1027
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8933149c7d4e55646ab18905fda4dc21
+      internalID: 1119605150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_71
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1028
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e06aa794036e464f998d8dc262a4b0d
+      internalID: -1831546619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_72
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1027
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c57bcc616691b8438b17df7027e68b9
+      internalID: 1387752478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_73
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1028
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1316f465a328a64bbd418d0d36a61f4
+      internalID: 778939531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_74
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1032
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3730f761b7d3c5b49a9f8ceb523f4a3b
+      internalID: 902915892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_75
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1033
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ad4daae7eb0c4b8afc4111777e360
+      internalID: -1208574202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_76
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1033
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888804497e9888a46ae389e421a43b0c
+      internalID: -1486128845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_77
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1008
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db3ee43b7676a941894aef3d4a385f9
+      internalID: 1018164852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_78
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1005
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f5f3f5c67d37f4c98f9d4dcee41343
+      internalID: 1408826813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_79
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 966
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3cb972a7092e14bad02e2260418548
+      internalID: -897865575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_80
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 999
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068015fb32e825c44891500f2d18cf37
+      internalID: 1504955605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 967
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf72068d3064b848834b61ff627e704
+      internalID: -737205433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_82
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 966
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6067649a8ad0a8042a0ad5b5dfd8b852
+      internalID: -1662440095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_83
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 966
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e592e9ddb7cd764680da4f416cccad3
+      internalID: 1724120786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_84
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 908
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc31cd08e7538304bbd2d989cfa67fa6
+      internalID: -137064847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_85
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 965
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a1ab492de3a8d4aaba68a3e62fa915
+      internalID: -1638711477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_86
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 994
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4cf2f2599e9db46811264b354fd001
+      internalID: 446120283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_87
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 966
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb11285b899624ab39c918b62056ac
+      internalID: 598161682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_88
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 900
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36919cb447b715d4cb81a530513a050a
+      internalID: 1648382458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_89
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 900
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7df1ed11b02d884fb34299506c6d459
+      internalID: -628473384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_90
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 900
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00261f307191fae4fb983e05c3ffb5b6
+      internalID: -1592583880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_91
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 930
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ecf5105e3bb8848aee8aaf29ed5b38
+      internalID: 1704032734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 913
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7871053f9a59c12488a60b44252c64b2
+      internalID: 244996232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_93
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 900
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5daa509e18c1af47b5b2b2a9f18c235
+      internalID: 1802309344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_94
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 885
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c75d7dacbed84998671a5ff5ebeea
+      internalID: -850558701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_95
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 885
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d25fd42064aaff4fbcdeb468aa74599
+      internalID: -1411464339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_96
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 885
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bc5e253237896439aab72cab115f19
+      internalID: 476343407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_97
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 885
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb872487b3c42468d180d6de1fcb5f
+      internalID: -897428271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_98
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 867
+        width: 113
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90a179d63944424cb9079ebac2110a4
+      internalID: -1740390925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 795
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846f587533bb4b743bfa14312c6fa20f
+      internalID: 1421454398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_100
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 795
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090ccb7103624b04c8fa58cd046f8b13
+      internalID: 845181756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_101
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 794
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0204ea98c3e017a4598563e22d977e1b
+      internalID: 748961399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_102
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 793
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d904e1c794e083248acb20c1684ec0bf
+      internalID: -786807426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_103
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 793
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4288695b00928149ae98e8e98e58059
+      internalID: 1058980420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_104
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 729
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492164572a2efed4b8cd968b13635c3c
+      internalID: 745888144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_105
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 729
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d73e45a89677246b2f2095bcc6913b
+      internalID: 607220288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_106
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 729
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55795b121cb77d46b0296727c097aca
+      internalID: -1977518846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_107
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 729
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ba1ce88c7db974fa82cec329c23c1f
+      internalID: 509480334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_108
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 729
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7644abbcb49bb504f819cb46826d8716
+      internalID: -1917692645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_109
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 729
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f73f7eec891df458fbd56b90acdac9
+      internalID: 2076656841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 729
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc06886a5717c374c97047263cf1d7c9
+      internalID: 1176042297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_111
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 716
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8b2149825907346a7c9cc075b4b1f0
+      internalID: 1188545254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_112
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 729
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75b293a2eab18542b12f306c92aa3ff
+      internalID: -956288302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_113
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 729
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2627338aeefae2440a172852c4b11a6e
+      internalID: -1272674024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_114
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 729
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df11d657fde63843a0f63684c9f70e2
+      internalID: -1440602809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_115
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 729
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b82875f6e9d2a4d8d008a9e972cd29
+      internalID: -2018212754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_116
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 684
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60be450c7c2e20341a4946fcf7f3547c
+      internalID: 1434643899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_117
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 680
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0265f52435d7e8f498ea895c813633c3
+      internalID: 112029406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_118
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 710
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6186c773961acd2458db6f3fd28bdced
+      internalID: -1575108709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_119
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 710
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19931d0b42db24b4db2db5957411f820
+      internalID: 765395711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_120
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 689
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967bce5f5cf642c4d8f0f899d1e187ea
+      internalID: 1755789092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_121
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b84dca7eadf6e4f99209c8ef9c6aae
+      internalID: -168392107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_122
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 687
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9185867f50be3b2478c9c81dffd25192
+      internalID: 1452511716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_123
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 694
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee63c12cfb85b764e9d09364409e47e9
+      internalID: -1935136117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_124
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 694
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191c62cec9ee1e41bdd92c69e795525
+      internalID: -1474285721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_125
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4f8ebf721ce5a46b531d90856b092b
+      internalID: -2060524581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_126
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 682
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea497d88aaeaba940a9d6f7e05b62916
+      internalID: -837720916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_127
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 673
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949121c37ca4ce647a92ecec15dd5a05
+      internalID: 932547800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_128
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 613
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea41a6a9a52d4dd4f9aa0a7eb9a36563
+      internalID: -144533572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_129
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 613
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0c001359c91ed489c2484672de55e3
+      internalID: 1805065107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_130
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 613
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136e862ad5e70f649bca28259baa5ff1
+      internalID: -2136093956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_131
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 613
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343492aa81ab0464bbaf93f8eba05cb3
+      internalID: -642789994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_132
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 613
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6d2e68986e9e44a8ec26e3a061c04d
+      internalID: -1577046009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_133
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 613
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc623fd2458fb0c4b8ba27f8bc391301
+      internalID: -566179124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_134
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 613
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4219eef445f6e5458592ad283478be4
+      internalID: 1780401527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_135
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 530
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa42e925279cfc142a74e61ecf5e0403
+      internalID: -1034899569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_136
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 530
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2c7eec49274b240b7e54d98994d691
+      internalID: 463654132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_137
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 530
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f9e6b9352824c408f34d77ad57e3f3
+      internalID: -689627692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_138
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 530
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04417b4d5e282f749a064d4812552652
+      internalID: 661256841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_139
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 530
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2669235551255448057d3145a7995e
+      internalID: -585902929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_140
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 530
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf61811bbdb7164ba41e5076e7577d4
+      internalID: 187701771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_141
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 530
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e93c32e253a24b478a0bf7f06085e24
+      internalID: -81864119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_142
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 530
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18663d2139276d644afd18380725fcbd
+      internalID: 677882698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_143
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 530
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf42b73f5e863ab44a172a195fa95c59
+      internalID: 202562251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_144
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 530
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a8f162f7e7203449e30f662845a266
+      internalID: 1878696127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_145
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 530
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aa86049bd40a24db0698594b48b984
+      internalID: -670355565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_146
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 471
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb1b592787e8f340b090a70a6124213
+      internalID: 719349115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_147
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 471
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16d34d0323ba484fba000ce0999dbc4
+      internalID: -1376341494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_148
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 471
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c789100b2ff124d4583afc155b85faab
+      internalID: 844744946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_149
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 471
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64d33bebe0df342bce5ddf1491d489
+      internalID: -1030625605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_150
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 404
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43344125dd52e2749bb4a0959fab67cc
+      internalID: 248249237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_151
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 404
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e21014d0e11a14eb344af24b4c6792
+      internalID: 1174403882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_152
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 404
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452148e01b0d91441b0adb3d093f41ec
+      internalID: 2141892048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_153
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 404
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b56f74f12f50e44f8ad9093c17fec5e
+      internalID: -832687007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_154
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 404
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce2d29b20e40e4438aeee9e1fbd073f
+      internalID: 334598370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_155
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 393
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62013929192293046864c178907dbd09
+      internalID: -1694343048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_156
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 393
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e65b8f348733a94187dbd9889056bb9
+      internalID: 1745702034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_157
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 393
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bfa53b77c216542b50900f4f438ade
+      internalID: -1204244620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_158
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 393
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0702d4d02b0ff04bbfc1d44a9e1771d
+      internalID: 2087653484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_159
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 393
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc6a2720d7f2db48b838fb8bd054873
+      internalID: -1133026254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_160
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 393
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5606753ac9db945bfd9b79d8903ae0
+      internalID: 613678097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_161
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 393
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace94a10583c1ed47926e99dc53c8fa9
+      internalID: -321531968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_162
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 393
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5115190023f8250428a0ea330f11c7b2
+      internalID: 57513713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_163
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 393
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a851c40a3e6d8e4e9157c96adf8dc40
+      internalID: -381896361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_164
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 393
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8c0190bb29b19488c9b2795eef2a2f
+      internalID: -877936401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_165
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 393
+        width: 66
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb83545af053efa41af4a364c18326e1
+      internalID: -508146751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_166
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 373
+        width: 146
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143b57a5fd928db49baf7a554a9e2325
+      internalID: 2083314195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_167
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 299
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ee58bf8fbe99d43b0db9e354d6ba63
+      internalID: 1159054056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_168
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 299
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3636c7d678a6f4fa6e90352f93c0a3
+      internalID: 722296559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_169
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 258
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f54cbc27c0f2bb4682f06c1bacb89d9
+      internalID: -1919410841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_170
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 258
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896faae4eebd56a45a5e326f18040854
+      internalID: -2031900738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_171
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 258
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68a41ff4fa38974da4538f13439dd89
+      internalID: -1523342455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_172
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 264
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b7fb160af2a304bbe5c7b030711a1c
+      internalID: 592668710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_173
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 281
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e078687f15c0c53449e9f6e55365d610
+      internalID: 1376591190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_174
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 304
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79399b1a6df146459fca55ad1490fc4
+      internalID: 525435810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_175
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 312
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c825441e22d2c46859446bd5105bb1
+      internalID: -673396281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_176
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 309
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40b61f4c8776a44e87f70034e3ff940
+      internalID: 1291342844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_177
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 312
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b0ea4d9d376fa40a563c0db7440e8d
+      internalID: -1064790126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_178
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 304
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a634a2c4db5ffe42a5a5efdb39d1de5
+      internalID: 1616911820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_179
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 258
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcf411f8488cd6439b286e5fe7f7203
+      internalID: 2087328910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_180
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 258
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b51eb9e4fcbd647b6e7573deac50c6
+      internalID: -1123684664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_181
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 236
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972bef6ddec058c43affb136f5640b6c
+      internalID: -1233914288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_182
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 179
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55cae44a99ca5740b136819c3f69ef0
+      internalID: -546375600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_183
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 179
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98865dfd6c033543a87bae2d489d25d
+      internalID: 16372918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_184
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 179
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e90d412f25c0ac49bcd340027c3be1d
+      internalID: 1285060736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_185
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 179
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fb9d5e43b724c4082f2cc97669d290
+      internalID: 179449779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_186
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 153
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030b6417623600b46a46c467878256e1
+      internalID: -143999264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_187
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 154
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee29c68d1c21abd4f90aaa8239ac9674
+      internalID: -1320845577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_188
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 149
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca496d2791d57b42bc0f4c29daff60c
+      internalID: -938493114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_189
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 155
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6918efdd2fb27ec4fa9cc6dcc58f4f34
+      internalID: 919790443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_190
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 150
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f2afdf6eee17b408c57e3618c692ac
+      internalID: 1798287370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_191
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 150
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d763bd00665786e48ae520c42a71d6e0
+      internalID: -2048310275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_192
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 148
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537b06c907fb5724296d87489a24c80a
+      internalID: -1001096710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_193
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 146
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0f794a42ebb7542a04dffc2941df4b
+      internalID: -2024804706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_194
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 146
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830824ba138851444a42c9f6ff55e7da
+      internalID: -755707582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_195
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 124
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f210b8fca1b9c14bb0c5ae108ed524e
+      internalID: 2043805661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_196
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 139
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51db16e0df6e31348803851850722268
+      internalID: -838526111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_197
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 133
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47981ec9163aaf647989633872f99cc3
+      internalID: -1429646343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_198
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 139
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60fca35ee064da46a41c8010f50cca8
+      internalID: 2023768969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_199
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 128
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54baf2f985d9a446a41da6fda7eeb0f
+      internalID: 1190357129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_200
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 128
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e48670aa0856cc44be30869edd4a1f2
+      internalID: 2127635623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_201
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 139
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec764de21f6081d44a2c03d511d8d5c2
+      internalID: 851858274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_202
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 123
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b2d69835b320b42828b9d1f1e787d5
+      internalID: 1595877429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_203
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 129
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8e781bdb003de42bd93d431c93e178
+      internalID: -2100147372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_204
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 19
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03607da4815dc47418cfb44cb98c8057
+      internalID: -548045522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_205
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 19
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6784383ec909d8f48a73fe83057dae24
+      internalID: -690379142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_206
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1
+        width: 172
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156c2383ae9e2e547b9e823bdfea1e6d
+      internalID: -1793731855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_fefnir_207
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df0ca1cd4600da4c8b26c812ca885ee
+      internalID: -1963879299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zero_fefnir_0: -1917458205
+      zero_fefnir_1: 861042993
+      zero_fefnir_10: 270176916
+      zero_fefnir_100: 845181756
+      zero_fefnir_101: 748961399
+      zero_fefnir_102: -786807426
+      zero_fefnir_103: 1058980420
+      zero_fefnir_104: 745888144
+      zero_fefnir_105: 607220288
+      zero_fefnir_106: -1977518846
+      zero_fefnir_107: 509480334
+      zero_fefnir_108: -1917692645
+      zero_fefnir_109: 2076656841
+      zero_fefnir_11: 1465020759
+      zero_fefnir_110: 1176042297
+      zero_fefnir_111: 1188545254
+      zero_fefnir_112: -956288302
+      zero_fefnir_113: -1272674024
+      zero_fefnir_114: -1440602809
+      zero_fefnir_115: -2018212754
+      zero_fefnir_116: 1434643899
+      zero_fefnir_117: 112029406
+      zero_fefnir_118: -1575108709
+      zero_fefnir_119: 765395711
+      zero_fefnir_12: -1427350597
+      zero_fefnir_120: 1755789092
+      zero_fefnir_121: -168392107
+      zero_fefnir_122: 1452511716
+      zero_fefnir_123: -1935136117
+      zero_fefnir_124: -1474285721
+      zero_fefnir_125: -2060524581
+      zero_fefnir_126: -837720916
+      zero_fefnir_127: 932547800
+      zero_fefnir_128: -144533572
+      zero_fefnir_129: 1805065107
+      zero_fefnir_13: -598363330
+      zero_fefnir_130: -2136093956
+      zero_fefnir_131: -642789994
+      zero_fefnir_132: -1577046009
+      zero_fefnir_133: -566179124
+      zero_fefnir_134: 1780401527
+      zero_fefnir_135: -1034899569
+      zero_fefnir_136: 463654132
+      zero_fefnir_137: -689627692
+      zero_fefnir_138: 661256841
+      zero_fefnir_139: -585902929
+      zero_fefnir_14: -311261349
+      zero_fefnir_140: 187701771
+      zero_fefnir_141: -81864119
+      zero_fefnir_142: 677882698
+      zero_fefnir_143: 202562251
+      zero_fefnir_144: 1878696127
+      zero_fefnir_145: -670355565
+      zero_fefnir_146: 719349115
+      zero_fefnir_147: -1376341494
+      zero_fefnir_148: 844744946
+      zero_fefnir_149: -1030625605
+      zero_fefnir_15: 2056128327
+      zero_fefnir_150: 248249237
+      zero_fefnir_151: 1174403882
+      zero_fefnir_152: 2141892048
+      zero_fefnir_153: -832687007
+      zero_fefnir_154: 334598370
+      zero_fefnir_155: -1694343048
+      zero_fefnir_156: 1745702034
+      zero_fefnir_157: -1204244620
+      zero_fefnir_158: 2087653484
+      zero_fefnir_159: -1133026254
+      zero_fefnir_16: -1505788685
+      zero_fefnir_160: 613678097
+      zero_fefnir_161: -321531968
+      zero_fefnir_162: 57513713
+      zero_fefnir_163: -381896361
+      zero_fefnir_164: -877936401
+      zero_fefnir_165: -508146751
+      zero_fefnir_166: 2083314195
+      zero_fefnir_167: 1159054056
+      zero_fefnir_168: 722296559
+      zero_fefnir_169: -1919410841
+      zero_fefnir_17: 419144803
+      zero_fefnir_170: -2031900738
+      zero_fefnir_171: -1523342455
+      zero_fefnir_172: 592668710
+      zero_fefnir_173: 1376591190
+      zero_fefnir_174: 525435810
+      zero_fefnir_175: -673396281
+      zero_fefnir_176: 1291342844
+      zero_fefnir_177: -1064790126
+      zero_fefnir_178: 1616911820
+      zero_fefnir_179: 2087328910
+      zero_fefnir_18: -2569701
+      zero_fefnir_180: -1123684664
+      zero_fefnir_181: -1233914288
+      zero_fefnir_182: -546375600
+      zero_fefnir_183: 16372918
+      zero_fefnir_184: 1285060736
+      zero_fefnir_185: 179449779
+      zero_fefnir_186: -143999264
+      zero_fefnir_187: -1320845577
+      zero_fefnir_188: -938493114
+      zero_fefnir_189: 919790443
+      zero_fefnir_19: 811572134
+      zero_fefnir_190: 1798287370
+      zero_fefnir_191: -2048310275
+      zero_fefnir_192: -1001096710
+      zero_fefnir_193: -2024804706
+      zero_fefnir_194: -755707582
+      zero_fefnir_195: 2043805661
+      zero_fefnir_196: -838526111
+      zero_fefnir_197: -1429646343
+      zero_fefnir_198: 2023768969
+      zero_fefnir_199: 1190357129
+      zero_fefnir_2: 1063032560
+      zero_fefnir_20: 953639119
+      zero_fefnir_200: 2127635623
+      zero_fefnir_201: 851858274
+      zero_fefnir_202: 1595877429
+      zero_fefnir_203: -2100147372
+      zero_fefnir_204: -548045522
+      zero_fefnir_205: -690379142
+      zero_fefnir_206: -1793731855
+      zero_fefnir_207: -1963879299
+      zero_fefnir_21: -1680141501
+      zero_fefnir_22: 868055914
+      zero_fefnir_23: 67580990
+      zero_fefnir_24: 1360045335
+      zero_fefnir_25: 336524498
+      zero_fefnir_26: 1693911069
+      zero_fefnir_27: 1150914185
+      zero_fefnir_28: -1270907884
+      zero_fefnir_29: 1833612388
+      zero_fefnir_3: -1633445635
+      zero_fefnir_30: 252566725
+      zero_fefnir_31: 1100989105
+      zero_fefnir_32: 791378698
+      zero_fefnir_33: 25397705
+      zero_fefnir_34: -2091792754
+      zero_fefnir_35: -1528187830
+      zero_fefnir_36: 462846825
+      zero_fefnir_37: 924508160
+      zero_fefnir_38: -758854019
+      zero_fefnir_39: -105084542
+      zero_fefnir_4: 1792170144
+      zero_fefnir_40: -1084664478
+      zero_fefnir_41: 837255615
+      zero_fefnir_42: -1351632223
+      zero_fefnir_43: 1277271127
+      zero_fefnir_44: -557518480
+      zero_fefnir_45: 292025902
+      zero_fefnir_46: 258231338
+      zero_fefnir_47: -739522896
+      zero_fefnir_48: -629872599
+      zero_fefnir_49: -1053697949
+      zero_fefnir_5: -1172677907
+      zero_fefnir_50: -774986316
+      zero_fefnir_51: -1919044351
+      zero_fefnir_52: -377979210
+      zero_fefnir_53: 557290994
+      zero_fefnir_54: 1304407899
+      zero_fefnir_55: -1292781911
+      zero_fefnir_56: -1214173602
+      zero_fefnir_57: -443308840
+      zero_fefnir_58: 66266519
+      zero_fefnir_59: 1169606108
+      zero_fefnir_6: 1582537820
+      zero_fefnir_60: -1980550868
+      zero_fefnir_61: 1913235692
+      zero_fefnir_62: 1560285640
+      zero_fefnir_63: 82845937
+      zero_fefnir_64: -79401908
+      zero_fefnir_65: 478197126
+      zero_fefnir_66: -956863737
+      zero_fefnir_67: -455793020
+      zero_fefnir_68: -591472421
+      zero_fefnir_69: -602446976
+      zero_fefnir_7: 654094020
+      zero_fefnir_70: 1119605150
+      zero_fefnir_71: -1831546619
+      zero_fefnir_72: 1387752478
+      zero_fefnir_73: 778939531
+      zero_fefnir_74: 902915892
+      zero_fefnir_75: -1208574202
+      zero_fefnir_76: -1486128845
+      zero_fefnir_77: 1018164852
+      zero_fefnir_78: 1408826813
+      zero_fefnir_79: -897865575
+      zero_fefnir_8: 1373663530
+      zero_fefnir_80: 1504955605
+      zero_fefnir_81: -737205433
+      zero_fefnir_82: -1662440095
+      zero_fefnir_83: 1724120786
+      zero_fefnir_84: -137064847
+      zero_fefnir_85: -1638711477
+      zero_fefnir_86: 446120283
+      zero_fefnir_87: 598161682
+      zero_fefnir_88: 1648382458
+      zero_fefnir_89: -628473384
+      zero_fefnir_9: 173109440
+      zero_fefnir_90: -1592583880
+      zero_fefnir_91: 1704032734
+      zero_fefnir_92: 244996232
+      zero_fefnir_93: 1802309344
+      zero_fefnir_94: -850558701
+      zero_fefnir_95: -1411464339
+      zero_fefnir_96: 476343407
+      zero_fefnir_97: -897428271
+      zero_fefnir_98: -1740390925
+      zero_fefnir_99: 1421454398
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
