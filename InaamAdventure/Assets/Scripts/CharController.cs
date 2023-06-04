@@ -44,7 +44,7 @@ public class CharController : MonoBehaviour
         ProcesarMovimiento();
         ProcesarSalto();
         Combos();
-        autoDestruction();
+       
     }
 
     bool EstaEnSuelo()
@@ -66,7 +66,7 @@ public class CharController : MonoBehaviour
             rigidbody.velocity = new Vector2(rigidbody.velocity.x, 0f);
             rigidbody.AddForce(Vector2.up * fuerzaSalto, ForceMode2D.Impulse);
         }
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.GetButtonDown("Jump"))
             {
                 animator.SetBool("isJumping", true);
             }
