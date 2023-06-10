@@ -13,6 +13,9 @@ public class CharController : MonoBehaviour
     public AudioClip sonidoSalto;
     public AudioClip sonidoExplosion;
     public AudioManager audioManager;
+    public GameObject bulletPrefab;
+    public GameObject shooter;
+    private Transform _firePoint;
     
     public bool destruir = true;
     public int comboDestruir;
@@ -28,7 +31,9 @@ public class CharController : MonoBehaviour
     private bool puedeMoverse = true;
 
 
-     
+     void Awake() {
+        _firePoint = transform.Find("FirePoint");     
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -36,6 +41,7 @@ public class CharController : MonoBehaviour
          boxCollider = GetComponent<BoxCollider2D>();
          saltosRestantes = saltosMaximos;
          animator = GetComponent<Animator>();
+         
     }
 
     // Update is called once per frame
@@ -44,9 +50,29 @@ public class CharController : MonoBehaviour
         ProcesarMovimiento();
         ProcesarSalto();
         Combos();
+        ShooterFire();
        
     }
 
+    void ShooterFire(){
+        if (Input.GetKeyDown(KeyCode.C) && bulletPrefab != null && _firePoint != null && shooter != null) {
+			GameObject myBullet = Instantiate(bulletPrefab, _firePoint.position, Quaternion.identity) as GameObject;
+
+			Bullet bulletComponent = myBullet.GetComponent<Bullet>();
+
+                animator.SetBool("isAttacking", true);
+
+            if (shooter.transform.localScale.x < 0f ) {
+				// Left
+				bulletComponent.direction = Vector2.left; // new Vector2(-1f, 0f)
+			} else {
+				// Right
+				bulletComponent.direction = Vector2.right; // new Vector2(1f, 0f)
+			}
+        }else{
+            animator.SetBool("isAttacking", false);
+        }
+    }
     bool EstaEnSuelo()
     {
         RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, new Vector2(boxCollider.bounds.size.x, boxCollider.bounds.size.y), 0f, Vector2.down, 0.2f, capaSuelo);
